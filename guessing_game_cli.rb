@@ -5,4 +5,5 @@ def run_guessing_game
   input = gets.chomp
   if rando == input
     puts "You guessed the correct number!"
-  else 
+  elsif 
+  puts ""
